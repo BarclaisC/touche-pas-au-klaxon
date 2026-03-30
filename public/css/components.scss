@@ -1,0 +1,19 @@
+.table {
+    background: white;
+    border-radius: 6px;
+    overflow: hidden;
+
+    th {
+        background-color: $primary;
+        color: white;
+    }
+}
+
+.btn-primary {
+    background-color: $primary;
+    border-color: $primary;
+
+    &:hover {
+        background-color: darken($primary, 10%);
+    }
+}

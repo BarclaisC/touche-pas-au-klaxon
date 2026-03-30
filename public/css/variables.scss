@@ -1,0 +1,18 @@
+// Palette imposée
+$color-light-blue: #f1f8fc;
+$color-blue: #0074c7;
+$color-dark-blue: #00497c;
+$color-dark-gray: #384050;
+$color-red: #cd2c2e;
+$color-green: #82b864;
+
+// Overrides Bootstrap (si un jour tu veux compiler Bootstrap)
+$primary: $color-blue;
+$secondary: $color-dark-blue;
+$success: $color-green;
+$danger: $color-red;
+$light: $color-light-blue;
+$dark: $color-dark-gray;
+
+// Typo
+$font-family-base: 'Roboto', sans-serif;
