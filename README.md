@@ -1,9 +1,9 @@
 # 🚗 Touche pas au klaxon  
-Application web en PHP / MVC – Projet CEF
+Application web 
 
 ## 📌 Présentation du projet
-“Touche pas au klaxon” est une application web développée dans le cadre du projet CEF.  
-Elle permet de gérer des **agences**, des **trajets**, ainsi que l’authentification des utilisateurs via une architecture **MVC** propre et structurée.
+“Touche pas au klaxon” est une application web .  
+Elle permet de gérer des **agences**, des **trajets**, ainsi que l’authentification des utilisateurs via une architecture **MVC** 
 
 L’objectif du projet est de mettre en œuvre :
 - une architecture MVC fonctionnelle,
@@ -115,10 +115,8 @@ Les identifiants de test sont fournis dans insert_data.sql.
 - Modèles connectés à la base de données
 
 🧪 Tests
-Le dossier /Test/ contient des fichiers de test ou de développement utilisés pendant la construction du projet.
+Le dossier /Test/ contient des fichiers de test utilisés pendant la construction du projet.
 
-📸 Captures d’écran (optionnel)
-(Tu peux m’envoyer tes captures et je les intègre ici proprement.)
 
 👩‍💻 Auteur
 Anael Barclais
