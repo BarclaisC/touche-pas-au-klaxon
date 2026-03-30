@@ -4,7 +4,7 @@ declare(strict_types=1);
 class AdminController
 {
     /**
-     * Vérifie si l'utilisateur est admin
+     * Vérifie si utilisateur est admin
      */
     private function checkAdmin(): void
     {

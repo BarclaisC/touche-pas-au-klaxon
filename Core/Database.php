@@ -17,7 +17,7 @@ class Database
 
         if ($pdo === null) {
 
-            // IMPORTANT : ajout du port 3307
+            
             $dsn = 'mysql:host=' . DB_HOST . ';port=3307;dbname=' . DB_NAME . ';charset=utf8mb4';
 
             $options = [

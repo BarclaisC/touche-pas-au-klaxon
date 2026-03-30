@@ -48,7 +48,7 @@ class Employe
     }
 
     /**
-     * Récupère un employé par ID (optionnel)
+     * Récupère un employé par ID 
      */
     public static function findById(int $id): ?array
     {
